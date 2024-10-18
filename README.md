@@ -1,5 +1,5 @@
 <h1> Model_site_V2 </h1>
-<h2>Study using only HTML CSS and JS</h2>
+<h2>Study using only HTML CSS </h2>
  
 <h3>Main page Preview</h3>
 
